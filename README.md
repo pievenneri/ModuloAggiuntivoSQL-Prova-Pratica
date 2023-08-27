@@ -1,0 +1,12 @@
+----------
+# ModuloAggiuntivoSQL-Prova-Pratica
+----------
+TRACCIA
+----------
+A partire da un caso di studio di suo interesse (es. ecommerce di prodotti cosmetici; dipendenti di una multinazionale farmaceutica, personale amministrativo, docente e studenti di un liceo; utenti, pagine, gruppi di un social network), si esegua la progettazione di una base dati (almeno 5 relazioni dello schema concettuale). La progettazione consiste di un documento con: 
+
+Descrizione caso di studio scelto:
+- Modello ER
+- Modello logico
+- Progettazione fisica (codice DDL e DML per la creazione della base di dati, delle tabelle, delle chiavi primarie ed esterne, degli attributi), creare delle viste. 
+- Almeno 10 interrogazioni (tutte con almeno due tra raggruppamenti e ordinamenti, join e date)
