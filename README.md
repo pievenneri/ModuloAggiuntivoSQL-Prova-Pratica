@@ -1,12 +1,8 @@
 ----------
 # ModuloAggiuntivoSQL-Prova-Pratica
 ----------
-TRACCIA
+Caso di Studio: Database di Docenti e Studenti di un Liceo
 ----------
-A partire da un caso di studio di suo interesse (es. ecommerce di prodotti cosmetici; dipendenti di una multinazionale farmaceutica, personale amministrativo, docente e studenti di un liceo; utenti, pagine, gruppi di un social network), si esegua la progettazione di una base dati (almeno 5 relazioni dello schema concettuale). La progettazione consiste di un documento con: 
-
-Descrizione caso di studio scelto:
-- Modello ER
-- Modello logico
-- Progettazione fisica (codice DDL e DML per la creazione della base di dati, delle tabelle, delle chiavi primarie ed esterne, degli attributi), creare delle viste. 
-- Almeno 10 interrogazioni (tutte con almeno due tra raggruppamenti e ordinamenti, join e date)
+Descrizione: In questo caso di studio, consideriamo un database per un liceo con informazioni su docenti,
+studenti, corsi, materie e iscrizioni. I docenti tengono lezioni, i corsi sono composti da materie e gli studenti
+si iscrivono ai corsi.
